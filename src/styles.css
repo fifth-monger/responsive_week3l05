@@ -15,7 +15,11 @@ body {
   margin: 30px auto;
 }
 
-a {
+footer a {
   margin: 0 10px;
+  color: #d48c00;
+}
+
+a {
   color: #d48c00;
 }
