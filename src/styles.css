@@ -1,0 +1,21 @@
+h1,
+p,
+footer {
+  text-align: center;
+}
+
+body {
+  background: #e9ffa3;
+}
+
+.honeydew-image {
+  max-width: 90%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
+
+a {
+  margin: 0 10px;
+  color: #d48c00;
+}
